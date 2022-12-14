@@ -1,0 +1,1001 @@
+id,game_name,hours_played,player_count,review_rating,review_count,tag_value
+1,natoque penatibus et magnis,1044,227951,8,26166,1
+2,at turpis donec posuere metus vitae,3823,143988,5,20778,1
+3,tortor quis turpis sed ante vivamus tortor duis,3832,176746,6,259080,4
+4,varius integer ac leo pellentesque ultrices mattis odio,1960,191596,5,288134,1
+5,odio in,196,136295,7,193213,1
+6,odio elementum eu,1271,38617,5,108914,5
+7,id mauris,72,211774,6,239197,5
+8,velit vivamus vel nulla eget eros elementum,2176,197478,6,265132,3
+9,pretium iaculis diam erat fermentum justo nec,3043,73668,8,84921,5
+10,at vulputate vitae nisl aenean lectus pellentesque eget,1855,59646,8,277332,1
+11,arcu adipiscing molestie hendrerit,341,92806,5,54836,4
+12,malesuada in imperdiet et commodo vulputate justo in,2089,93818,5,43339,5
+13,pellentesque volutpat dui maecenas tristique est et,2616,284469,8,276652,2
+14,orci luctus et ultrices posuere cubilia curae,732,56974,9,2378,4
+15,sit amet eros suspendisse accumsan tortor,1833,231041,7,287620,5
+16,lorem ipsum dolor sit amet consectetuer adipiscing elit,407,119635,9,252251,3
+17,hac habitasse platea dictumst etiam,1548,276013,5,17186,2
+18,ipsum primis in,3625,14915,5,244972,5
+19,ligula vehicula,3800,104247,5,51858,1
+20,vel est donec odio justo,758,12172,7,90720,4
+21,vestibulum ante ipsum primis in,2948,190965,5,276524,2
+22,lobortis convallis tortor risus dapibus augue vel,3620,62088,8,2372,2
+23,augue luctus tincidunt nulla mollis molestie,1079,204075,9,39179,5
+24,vivamus tortor,2506,200301,5,86110,1
+25,sed augue aliquam erat volutpat,3845,225304,6,166932,2
+26,pede lobortis,677,188918,6,138731,3
+27,lectus aliquam sit amet,763,263104,6,268362,3
+28,ante vivamus tortor duis mattis,358,101950,5,179677,4
+29,mattis nibh,2667,153116,6,134930,5
+30,sed magna,2865,17235,7,15706,3
+31,cum sociis,132,164890,9,248662,2
+32,porttitor pede justo eu massa,1006,52723,7,101508,4
+33,in tempor turpis nec euismod scelerisque quam,3292,221012,7,41840,2
+34,convallis tortor risus dapibus augue vel,2397,243162,5,276475,2
+35,est risus auctor sed tristique,1083,291215,5,40104,1
+36,in faucibus,3627,189575,6,136403,3
+37,risus praesent lectus vestibulum quam sapien varius,2969,270844,7,242788,2
+38,congue etiam justo etiam,2058,298243,9,174522,1
+39,aenean lectus pellentesque,1787,265637,5,157001,4
+40,metus sapien ut nunc vestibulum,2216,181119,8,246322,5
+41,nec nisi volutpat eleifend,1294,36819,5,39795,1
+42,id mauris vulputate elementum nullam,2872,28036,8,155576,3
+43,dui nec nisi volutpat,2201,140556,9,137820,4
+44,odio in hac,832,228281,8,64379,4
+45,lacus morbi quis tortor id nulla,3658,201066,8,211558,5
+46,lobortis ligula,3956,71578,5,74772,1
+47,dui vel nisl duis,2233,143679,6,116394,5
+48,semper sapien a,255,45080,8,82531,4
+49,erat vestibulum,3245,136596,9,121237,3
+50,elit sodales scelerisque,2766,59981,7,190213,2
+51,ultrices posuere,1087,163845,5,238913,1
+52,vivamus metus arcu adipiscing,2266,181620,7,40077,1
+53,mus etiam vel augue vestibulum rutrum rutrum,3557,36684,8,291800,2
+54,eu est,3696,75069,6,131788,2
+55,mollis molestie lorem quisque ut erat curabitur gravida,2372,56470,6,199657,3
+56,massa donec dapibus duis at,3637,276598,8,95534,3
+57,ut erat id mauris,3326,18460,8,259176,3
+58,turpis a pede posuere nonummy integer non velit,2507,192024,5,195801,5
+59,at turpis donec posuere metus vitae ipsum,2577,57927,5,213509,5
+60,sed vestibulum sit amet cursus,967,185349,6,202685,1
+61,nunc vestibulum,188,174155,5,116826,2
+62,rutrum at lorem integer,1001,57739,5,290677,3
+63,quisque id,1957,41195,5,144017,3
+64,adipiscing elit proin risus praesent,238,230979,8,98210,4
+65,donec semper sapien a libero nam dui,3170,92865,9,299431,2
+66,ut massa quis augue luctus,3974,162440,8,19694,4
+67,lectus vestibulum quam sapien varius,2171,151716,7,161595,4
+68,risus auctor sed tristique in tempus,3171,22827,8,67096,2
+69,habitasse platea,2041,163222,8,59939,2
+70,massa id nisl venenatis lacinia aenean sit amet,2091,16426,5,106170,2
+71,integer tincidunt ante vel,482,45597,5,234288,3
+72,mattis nibh,2703,19075,5,172107,2
+73,sit amet eros suspendisse accumsan tortor quis turpis,2157,273778,8,96443,1
+74,sociis natoque penatibus,1991,48688,9,165132,5
+75,sed magna at,3367,73881,9,38518,3
+76,donec diam neque,259,118295,8,295935,1
+77,a feugiat et eros vestibulum ac,489,26152,5,151324,5
+78,congue diam id ornare imperdiet,238,43831,7,51559,2
+79,quis orci nullam molestie,2678,286757,8,162503,5
+80,nulla quisque arcu libero rutrum ac lobortis,3292,251016,8,285948,1
+81,sed nisl,829,80324,7,139350,3
+82,lectus suspendisse potenti in eleifend,2903,53622,7,13647,5
+83,integer ac leo pellentesque ultrices,194,38680,6,273978,1
+84,sodales sed tincidunt,2855,107972,6,29153,4
+85,integer ac neque,2361,199332,6,131052,3
+86,consectetuer adipiscing elit,1107,116688,6,229455,1
+87,odio donec vitae nisi nam ultrices libero non,1166,138253,6,79214,5
+88,auctor gravida sem praesent id massa id,262,119621,7,258644,2
+89,sed tincidunt eu felis fusce,1397,37289,7,191923,2
+90,molestie hendrerit at vulputate,3797,144462,7,88035,3
+91,dictumst morbi vestibulum,2968,252869,5,223814,4
+92,curabitur convallis duis consequat dui,523,209587,6,103221,3
+93,ipsum integer,3907,85428,5,186620,5
+94,id pretium iaculis diam erat,1315,114233,6,93053,5
+95,nullam porttitor lacus,483,172896,7,259522,5
+96,justo lacinia eget tincidunt,1258,80239,8,171592,4
+97,a nibh in quis justo,3714,263246,9,286940,5
+98,ut at,519,164516,8,202500,2
+99,condimentum id luctus nec molestie sed justo,1232,192090,8,91274,1
+100,cras non velit nec nisi vulputate,924,91763,9,214808,3
+101,semper porta volutpat quam pede,139,206151,7,195545,4
+102,interdum mauris ullamcorper purus sit amet nulla quisque,3793,245904,6,108854,3
+103,rutrum ac lobortis vel dapibus at diam nam,45,119426,6,15711,4
+104,lacus morbi sem mauris laoreet ut rhoncus aliquet,3571,179572,5,67972,2
+105,nulla ut erat,3613,138215,9,226529,1
+106,habitasse platea dictumst morbi vestibulum velit id,3634,58196,7,232802,1
+107,amet justo morbi ut odio cras mi pede,1911,108547,9,263246,2
+108,sem praesent id,954,35894,5,14142,2
+109,luctus nec molestie sed,717,165627,5,145070,1
+110,nulla ac enim in tempor,958,270925,6,20809,5
+111,vehicula consequat morbi a ipsum integer a,245,130045,6,83547,3
+112,consequat dui,796,291983,9,51284,2
+113,nulla ultrices aliquet maecenas leo odio condimentum id,2134,153890,9,58657,5
+114,sapien iaculis congue vivamus metus,3259,56146,5,222381,1
+115,montes nascetur,3351,100854,5,158582,1
+116,orci nullam molestie nibh in lectus pellentesque at,3337,248782,8,170291,5
+117,est congue elementum in hac,1080,94821,6,135569,5
+118,eu tincidunt in leo,1208,182687,8,244864,5
+119,erat eros viverra eget congue,1457,194993,5,298449,2
+120,interdum mauris,3169,147314,5,84925,4
+121,rhoncus aliquam lacus morbi quis,3043,172871,7,57730,3
+122,donec pharetra magna vestibulum aliquet ultrices erat tortor,1666,250045,7,46961,3
+123,dapibus augue vel accumsan tellus nisi eu,2793,145714,5,197732,2
+124,suspendisse accumsan,2610,95072,9,95268,4
+125,integer pede justo lacinia eget tincidunt,3629,122336,6,176486,4
+126,lacus morbi,117,77590,5,7676,4
+127,in magna bibendum imperdiet nullam,212,262603,7,103897,2
+128,consectetuer adipiscing,2254,83788,5,159339,5
+129,nam congue risus semper porta volutpat quam,3001,12351,8,216438,5
+130,vel augue,1181,118671,9,250123,5
+131,nunc viverra,364,174578,5,155731,2
+132,nibh quisque,3671,247784,9,19452,4
+133,cursus urna ut tellus nulla,1507,111733,6,95380,2
+134,ultrices phasellus id sapien in,2956,139908,5,33636,4
+135,metus arcu adipiscing molestie hendrerit at,1322,126478,6,160344,1
+136,in ante vestibulum ante ipsum primis in,1539,201930,8,31272,5
+137,sit amet eleifend pede,1004,235597,9,201278,1
+138,cum sociis,3355,106595,5,279812,1
+139,nisi nam ultrices libero non mattis pulvinar,2060,271272,7,121871,2
+140,ultrices posuere cubilia curae nulla dapibus dolor vel,1374,139361,7,182982,3
+141,volutpat eleifend donec ut dolor morbi,580,97542,8,25776,4
+142,imperdiet nullam orci pede venenatis non,2235,94491,8,253962,5
+143,mus vivamus vestibulum sagittis,2222,108800,9,204354,3
+144,nisl aenean lectus pellentesque eget nunc donec quis,2215,77535,8,138392,2
+145,non mauris morbi non lectus aliquam sit amet,3966,227607,6,252052,3
+146,ut volutpat sapien arcu,395,260806,6,279264,2
+147,duis consequat dui nec nisi volutpat,2688,236562,6,48211,4
+148,nulla justo aliquam quis,3764,145678,7,231503,1
+149,ut ultrices vel augue vestibulum ante ipsum,2626,71069,5,260011,3
+150,enim leo rhoncus sed,328,85091,6,187981,1
+151,eu est,1067,158553,5,16108,1
+152,venenatis turpis enim blandit mi,3916,15424,5,77319,3
+153,interdum mauris ullamcorper purus,1361,118866,5,189982,1
+154,amet turpis elementum ligula,367,143254,5,79787,5
+155,quisque id justo sit amet sapien dignissim,984,131554,9,20625,1
+156,ornare consequat lectus,1275,87669,6,146998,3
+157,urna ut tellus,1941,124247,8,223679,5
+158,cubilia curae donec pharetra magna vestibulum,1150,229535,9,53482,1
+159,ante nulla justo,1165,76013,5,169566,5
+160,pede morbi porttitor lorem id ligula suspendisse,880,280515,9,36220,2
+161,felis eu sapien cursus,2657,51687,6,231853,3
+162,vestibulum vestibulum,100,111631,5,182170,2
+163,at turpis donec posuere metus,2542,194121,6,20682,1
+164,etiam justo etiam pretium iaculis,2003,99543,7,230893,3
+165,erat volutpat in,1103,236581,7,54591,3
+166,quis tortor id nulla ultrices aliquet,396,293310,8,106659,5
+167,eleifend quam a odio in hac,1329,11628,7,278175,5
+168,ipsum dolor sit,3145,13223,7,227274,1
+169,luctus cum sociis natoque penatibus et magnis,3465,256220,8,13060,3
+170,commodo placerat praesent,2191,156121,5,205989,5
+171,pulvinar nulla pede,3892,191124,5,269985,1
+172,at feugiat non pretium,3901,277871,5,101719,2
+173,curabitur gravida nisi at nibh in hac habitasse,3152,94490,8,249489,4
+174,sed tristique,3124,158120,5,163164,4
+175,dui luctus rutrum nulla tellus in sagittis dui,1027,23056,7,74535,2
+176,eget congue eget semper rutrum,90,31200,5,18312,3
+177,sed lacus morbi sem,629,159607,7,146939,2
+178,tempor convallis nulla neque libero convallis eget eleifend,3328,263565,5,267607,5
+179,quam pharetra,1005,167352,7,194975,3
+180,vel ipsum praesent blandit lacinia,3162,70693,7,129220,2
+181,suscipit nulla elit ac nulla sed vel enim,1261,64804,7,71996,1
+182,est phasellus sit amet erat nulla tempus vivamus,468,154600,6,73134,3
+183,erat volutpat in congue etiam justo etiam,3190,219645,6,112652,3
+184,phasellus id sapien in sapien,2857,39090,9,177425,3
+185,platea dictumst aliquam augue quam,3290,62024,9,293030,2
+186,ipsum primis in faucibus orci luctus et,1869,267492,5,210303,5
+187,eget tincidunt eget tempus,2387,209299,6,299144,5
+188,lacus at turpis donec,2326,133251,9,282636,5
+189,amet justo morbi ut odio,43,237695,9,28530,3
+190,purus phasellus in felis donec semper,3856,52059,9,96267,1
+191,morbi non quam nec,748,64048,5,227101,4
+192,in tempor turpis,3593,185516,6,49147,2
+193,amet consectetuer adipiscing elit proin risus praesent lectus,1657,31060,5,111959,1
+194,gravida sem,1783,85045,7,33858,2
+195,arcu libero rutrum ac lobortis vel,3816,152735,7,100022,5
+196,ut volutpat sapien arcu,3054,240904,7,131740,3
+197,erat tortor sollicitudin mi sit amet,3878,247859,6,172052,5
+198,felis ut at dolor quis,45,54767,5,165582,5
+199,convallis tortor risus dapibus augue vel,1722,146982,6,118488,3
+200,semper est,2384,33569,6,170198,1
+201,habitasse platea dictumst morbi vestibulum velit id,3511,80057,7,263158,1
+202,in blandit ultrices enim lorem ipsum dolor,399,77810,7,128545,1
+203,congue etiam justo etiam pretium iaculis,3569,75044,5,52065,1
+204,urna pretium nisl,3619,173237,5,264973,3
+205,dolor morbi vel lectus in quam,2665,260440,8,238102,2
+206,duis at velit,454,80291,5,38474,4
+207,consequat metus sapien ut,2328,255194,9,107112,3
+208,morbi non quam nec dui luctus rutrum,112,67087,8,32253,3
+209,vestibulum eget vulputate ut ultrices,588,195778,7,32342,3
+210,ultrices aliquet maecenas,2082,55296,6,259252,5
+211,ut erat curabitur gravida,1427,178125,9,180203,2
+212,vulputate vitae nisl aenean lectus pellentesque,112,44034,5,84949,4
+213,purus eu magna vulputate luctus cum sociis natoque,2350,238391,8,296269,1
+214,mollis molestie lorem quisque ut,2460,135764,9,66879,1
+215,faucibus orci luctus,385,170356,8,142191,3
+216,nulla integer,855,100128,5,21485,4
+217,pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin,932,108568,5,233743,2
+218,nulla pede ullamcorper augue,3247,218417,8,88722,5
+219,morbi non quam nec,3191,269249,9,31310,5
+220,quis libero nullam sit amet,3782,36941,9,289898,1
+221,elementum nullam varius nulla facilisi cras non,2816,221399,6,41404,1
+222,eu massa donec dapibus,3330,78734,7,96562,4
+223,in quam,1432,220369,8,15502,1
+224,aliquam non mauris morbi non lectus aliquam sit,34,281392,8,203459,4
+225,quisque arcu libero rutrum ac lobortis vel,3622,157211,7,107224,1
+226,habitasse platea dictumst aliquam augue quam,2395,152604,9,66471,3
+227,lacus at velit vivamus vel nulla eget eros,949,193551,8,17324,2
+228,venenatis non sodales sed tincidunt eu felis,2810,211259,7,16364,3
+229,faucibus orci luctus et,3524,156064,5,183274,5
+230,tincidunt ante vel ipsum praesent blandit lacinia,3812,69762,5,299264,3
+231,duis at velit eu est congue elementum in,1010,93547,5,282858,2
+232,donec odio justo sollicitudin ut suscipit a feugiat,2143,292888,8,189084,2
+233,orci mauris lacinia sapien quis libero nullam,2201,48379,6,29810,1
+234,sed vel,1045,257937,8,182437,3
+235,vitae quam suspendisse potenti,1420,70796,6,210490,5
+236,felis fusce posuere felis sed lacus morbi sem,3365,197233,7,235574,1
+237,lectus aliquam sit amet diam,1584,35847,6,191492,5
+238,consequat varius integer ac leo pellentesque ultrices mattis,3518,154633,8,201230,4
+239,lectus vestibulum,3919,179987,7,217555,4
+240,nisl venenatis lacinia aenean sit amet justo morbi,1907,220642,6,226704,5
+241,nascetur ridiculus mus vivamus,1666,65857,7,2474,2
+242,leo odio porttitor,1979,192641,7,20440,3
+243,potenti in eleifend quam a odio in hac,2938,191948,5,83218,4
+244,maecenas ut,832,240537,7,25948,2
+245,enim in tempor turpis nec euismod scelerisque quam,2741,71386,9,103585,5
+246,morbi a ipsum integer a nibh,62,26476,7,77007,3
+247,ut erat curabitur gravida,3861,175606,6,228045,2
+248,lacus at velit vivamus vel nulla,1518,232650,6,267614,3
+249,integer ac neque duis,3446,107826,5,256254,5
+250,venenatis non sodales sed tincidunt eu felis,31,206434,7,61346,4
+251,lacus at velit vivamus,3396,147993,7,250091,4
+252,erat curabitur gravida nisi,3529,100079,5,299198,3
+253,accumsan odio curabitur convallis duis consequat,2580,144070,7,18103,2
+254,eget elit sodales scelerisque,809,27596,5,186675,1
+255,tempus semper,1132,183907,9,191146,5
+256,libero nullam,2199,75077,9,216996,4
+257,risus semper porta volutpat quam pede,2710,296868,9,287838,4
+258,integer ac neque duis bibendum morbi non,1912,292140,6,25417,5
+259,vestibulum ante ipsum primis in,2539,94389,8,249306,3
+260,lacus curabitur at ipsum ac,2463,64503,9,273505,5
+261,eu massa donec,2619,130487,9,233687,5
+262,lacus at turpis donec,2054,169037,8,81810,5
+263,non mauris morbi non lectus aliquam sit amet,2402,99209,8,252400,2
+264,tincidunt in leo maecenas pulvinar,383,283771,5,83063,2
+265,erat tortor sollicitudin mi sit amet lobortis sapien,849,33944,5,219875,1
+266,in sapien iaculis congue vivamus metus,3597,200673,9,263949,5
+267,volutpat erat quisque erat,2796,80197,8,295071,2
+268,risus auctor sed tristique in,591,192942,6,137397,1
+269,dolor vel est,1838,145861,6,126437,3
+270,mus vivamus vestibulum sagittis,1210,135125,8,261496,4
+271,condimentum curabitur in libero ut massa,235,94402,8,224826,3
+272,ut at dolor quis,1506,233622,5,134318,3
+273,felis donec semper sapien a,3937,282546,5,159765,5
+274,suspendisse ornare consequat lectus in est risus auctor,76,274825,8,226327,3
+275,odio curabitur convallis duis consequat dui nec nisi,2170,230824,9,109427,1
+276,molestie hendrerit at vulputate vitae nisl,2152,161644,8,54980,4
+277,dolor sit amet consectetuer adipiscing elit proin interdum,900,121444,8,242897,4
+278,ullamcorper augue a suscipit nulla elit,3509,15289,5,167971,5
+279,tempor convallis nulla neque,3086,78156,7,79412,1
+280,augue vel accumsan tellus nisi eu,203,124512,9,109057,5
+281,bibendum morbi,951,16653,6,56989,4
+282,proin leo,3901,71408,8,31073,4
+283,amet diam in magna bibendum imperdiet nullam,2631,166545,9,208331,5
+284,luctus rutrum nulla tellus in sagittis dui vel,19,222019,8,236831,1
+285,ut massa volutpat,3866,66264,9,263289,3
+286,amet sapien dignissim vestibulum vestibulum,3424,250881,5,17793,1
+287,semper porta volutpat quam pede lobortis,1818,31877,7,147457,2
+288,luctus et ultrices posuere cubilia curae,596,59375,8,71959,3
+289,turpis enim blandit,1256,132202,9,10398,4
+290,congue etiam justo etiam pretium,2769,71727,7,276582,1
+291,cubilia curae duis faucibus accumsan,1394,281831,5,136322,4
+292,at ipsum,100,53438,5,82987,1
+293,libero rutrum ac lobortis,3144,204710,7,245723,2
+294,vestibulum sed magna at,400,56136,8,93913,4
+295,dolor quis odio consequat varius integer ac,2675,53529,8,76514,3
+296,pulvinar nulla pede ullamcorper augue a suscipit,2458,292747,7,282177,5
+297,nam congue risus semper porta volutpat,3009,195535,5,167003,2
+298,ultrices aliquet maecenas leo odio condimentum id,1696,263966,8,184136,1
+299,volutpat sapien arcu sed,3142,119979,5,37514,5
+300,parturient montes,3152,171466,5,242189,2
+301,a odio in hac habitasse platea,2506,93858,9,49095,4
+302,posuere cubilia curae duis faucibus accumsan,263,163714,6,74873,5
+303,mauris sit amet eros,3970,107500,6,162665,3
+304,quam fringilla rhoncus mauris enim,3787,164605,7,134778,1
+305,dapibus nulla suscipit,896,125173,9,182313,2
+306,tincidunt ante vel ipsum,2264,92221,8,90084,5
+307,nibh in quis justo,2833,275958,5,74917,2
+308,eu tincidunt,1513,150436,6,275357,2
+309,velit id pretium iaculis,782,149021,5,26921,1
+310,venenatis turpis enim blandit mi in,1997,224588,9,140406,1
+311,curae nulla dapibus dolor vel est donec,3523,212612,8,89959,4
+312,orci vehicula condimentum curabitur in libero ut massa,1027,286453,6,80557,2
+313,nascetur ridiculus mus etiam,3535,226213,7,258572,2
+314,curae duis faucibus,1141,293133,9,154388,5
+315,morbi odio odio,3697,41670,8,268323,3
+316,nullam porttitor lacus at,380,30486,6,97585,5
+317,duis aliquam convallis,568,182871,8,278896,3
+318,aliquet ultrices erat tortor sollicitudin mi sit amet,2385,251175,8,17236,1
+319,proin leo odio porttitor id consequat in,3673,273833,8,63718,4
+320,in eleifend,507,201160,5,201120,5
+321,sem praesent id massa,1279,187831,6,261366,1
+322,dapibus augue vel accumsan tellus nisi eu orci,162,267214,7,293857,1
+323,sapien non mi integer ac neque duis,2591,135007,9,119099,4
+324,dolor morbi,3539,46526,5,92111,3
+325,molestie lorem quisque ut erat curabitur gravida,595,48396,6,200058,4
+326,viverra pede,595,203624,6,24518,2
+327,in sagittis dui vel,1901,295615,8,200475,2
+328,vel accumsan tellus nisi eu,1807,199886,7,192706,1
+329,dui luctus rutrum,3458,286757,8,283044,1
+330,in tempus sit amet sem,2878,169498,5,21476,1
+331,id justo sit amet,2876,65671,9,79021,2
+332,nec sem duis aliquam convallis,148,16584,5,131092,3
+333,ultrices enim lorem ipsum dolor sit amet consectetuer,3752,178064,9,169914,5
+334,adipiscing elit proin interdum,3868,222301,7,216883,3
+335,cras pellentesque volutpat dui,1095,298826,7,46755,3
+336,amet lobortis sapien sapien non mi integer,2879,78679,9,211172,1
+337,rhoncus aliquam lacus morbi,560,273235,6,59115,5
+338,molestie sed justo pellentesque viverra,3577,285276,9,235266,1
+339,elementum in hac habitasse,338,88955,8,122480,2
+340,sapien cursus vestibulum proin eu mi nulla ac,2393,95868,7,276690,2
+341,ipsum primis in faucibus,501,228787,7,122364,4
+342,aenean fermentum donec ut mauris eget massa,3212,212481,6,12445,2
+343,nulla quisque arcu libero rutrum ac lobortis vel,2784,133900,7,152741,1
+344,dapibus nulla suscipit ligula in lacus curabitur,1401,206018,9,141103,3
+345,lectus in quam fringilla rhoncus mauris,356,141071,6,118664,5
+346,rhoncus mauris enim leo,2511,184530,6,17866,4
+347,turpis adipiscing lorem vitae,164,133902,8,197039,3
+348,ac neque duis bibendum,306,186293,9,291321,4
+349,maecenas pulvinar lobortis est,2009,165379,7,88071,4
+350,egestas metus aenean,3431,237661,9,214519,2
+351,scelerisque quam turpis adipiscing lorem vitae,2956,128457,6,86484,2
+352,ornare imperdiet sapien urna pretium nisl ut volutpat,2482,278231,6,209567,2
+353,justo aliquam quis turpis eget elit sodales scelerisque,148,48246,6,181179,1
+354,pede posuere,2573,73979,8,39147,3
+355,sagittis dui,1300,94033,7,139497,2
+356,blandit non interdum in ante vestibulum ante ipsum,2884,132429,6,63081,5
+357,vel augue vestibulum rutrum rutrum neque,2865,33171,8,276651,3
+358,lacus curabitur at ipsum ac tellus semper interdum,3279,267687,8,127056,3
+359,eget vulputate ut ultrices,2611,55568,6,43780,1
+360,id massa id nisl venenatis,1585,240464,8,193256,2
+361,ultricies eu nibh quisque id justo sit amet,3546,246710,8,281123,5
+362,justo pellentesque,2961,209800,8,68912,2
+363,erat nulla,3342,85380,8,32927,4
+364,id luctus nec molestie sed justo pellentesque viverra,1205,72591,6,8536,5
+365,ac nibh fusce lacus purus aliquet at,1824,52212,5,279564,5
+366,varius ut blandit,3988,17414,6,14288,5
+367,curae nulla dapibus dolor vel est donec odio,3427,244958,7,297879,5
+368,lectus vestibulum quam sapien varius ut blandit non,2835,118685,8,170551,4
+369,quisque porta volutpat erat quisque erat eros viverra,3922,285628,6,142894,2
+370,dapibus dolor,2124,260043,5,248880,5
+371,in hac habitasse platea dictumst etiam faucibus cursus,664,213009,8,241915,5
+372,sociis natoque penatibus et magnis dis parturient montes,154,98375,5,575,2
+373,quam turpis,3645,30291,6,76695,4
+374,justo morbi ut odio,2522,46312,8,116416,1
+375,luctus et ultrices posuere cubilia curae,1922,70373,5,1159,1
+376,phasellus in felis,1674,103538,6,167820,1
+377,donec semper sapien a libero nam dui proin,3581,274316,5,85225,3
+378,venenatis lacinia aenean sit amet,177,215647,5,181065,2
+379,cras pellentesque volutpat dui,3567,89174,7,114661,1
+380,pede morbi porttitor lorem id ligula suspendisse,2878,162164,8,299697,3
+381,aliquam convallis nunc proin at turpis a pede,1070,123181,7,8551,2
+382,justo in blandit,1644,136366,8,240533,3
+383,lacinia aenean,860,168347,8,25800,2
+384,at nibh in hac habitasse,256,290243,5,227507,2
+385,posuere cubilia curae mauris viverra,1812,171294,7,229661,1
+386,consequat dui nec nisi volutpat eleifend donec,2289,236996,8,10571,2
+387,semper rutrum nulla nunc purus,2552,129853,7,136055,1
+388,fermentum justo nec condimentum neque,1116,145791,8,258441,2
+389,a ipsum integer,3157,170362,9,87850,4
+390,lobortis vel dapibus at diam nam tristique,998,122639,6,77967,3
+391,donec dapibus duis at,521,38626,5,5924,4
+392,nascetur ridiculus mus vivamus vestibulum sagittis sapien cum,1144,276693,6,35683,5
+393,posuere nonummy integer non velit donec,374,69411,6,4049,2
+394,eget tempus vel pede morbi porttitor,1325,76412,9,51838,3
+395,vel augue vestibulum ante ipsum primis in,956,267042,9,76004,5
+396,libero convallis eget eleifend luctus ultricies eu,2741,116862,8,103339,4
+397,phasellus in felis donec semper sapien a libero,1479,67279,8,20851,3
+398,nam dui proin leo odio porttitor id consequat,672,226773,6,134878,2
+399,duis bibendum morbi non quam nec,1693,111598,8,265680,2
+400,ut massa volutpat convallis morbi odio odio,2535,59438,6,283234,3
+401,nulla sed accumsan felis,2445,222085,7,222342,1
+402,ligula in lacus curabitur at ipsum ac,3667,191136,9,287654,2
+403,felis sed lacus morbi sem mauris,2237,206653,8,220628,4
+404,quis turpis eget elit sodales scelerisque,3658,10871,6,96855,3
+405,pulvinar lobortis est phasellus sit amet erat nulla,1228,184786,7,176864,4
+406,mollis molestie,1934,40884,6,1009,4
+407,proin leo odio porttitor id consequat in consequat,3216,135290,5,169369,1
+408,praesent lectus vestibulum quam sapien,3900,71829,5,195614,4
+409,ut blandit non interdum in ante vestibulum,2405,279295,7,298341,2
+410,nec sem,580,14402,5,153427,5
+411,leo odio porttitor id consequat in,926,251363,6,104689,5
+412,nulla tellus in sagittis,790,232567,6,217257,2
+413,etiam vel augue,3286,198863,7,256157,4
+414,sit amet turpis,2710,146874,8,157178,3
+415,sapien urna pretium nisl ut volutpat sapien arcu,1100,141605,8,201946,3
+416,pede venenatis non,1256,40278,6,238724,1
+417,praesent id massa id nisl venenatis lacinia aenean,1411,72870,9,32585,4
+418,mauris lacinia sapien quis libero nullam,2769,169813,6,114372,5
+419,lacus purus,2446,232433,7,139996,5
+420,ut erat,3726,276290,6,208737,1
+421,lectus pellentesque at nulla suspendisse potenti cras in,1671,93088,7,175527,2
+422,luctus rutrum nulla tellus,9,174340,8,102712,4
+423,nullam varius nulla facilisi,2111,106811,8,226607,5
+424,nunc viverra dapibus,998,35680,9,159986,4
+425,et ultrices posuere cubilia curae,110,271761,9,178326,5
+426,ut massa volutpat convallis,2881,68293,8,89960,1
+427,non mattis pulvinar nulla,893,202758,5,187547,4
+428,sapien arcu sed augue,3066,60861,5,195339,4
+429,nullam orci,1805,129967,7,56567,1
+430,mi in porttitor pede justo eu massa,547,91622,8,91241,1
+431,praesent lectus vestibulum quam sapien varius,2131,184076,9,106753,4
+432,erat quisque,1740,162094,5,250549,4
+433,duis mattis egestas,3046,94383,7,125063,2
+434,porta volutpat erat quisque,3738,76595,9,259605,5
+435,est congue elementum in,661,271725,7,76725,3
+436,lectus suspendisse potenti in eleifend quam a odio,2876,164248,7,130202,2
+437,posuere metus vitae ipsum aliquam non mauris,276,11378,7,269906,1
+438,eleifend luctus ultricies eu nibh quisque,606,224962,9,253283,1
+439,elementum nullam varius,2183,281613,6,104443,2
+440,cum sociis natoque penatibus et magnis dis,3727,242758,5,200325,3
+441,odio in hac habitasse platea,3492,162960,8,269860,2
+442,quam suspendisse potenti nullam porttitor,2507,269925,9,25534,3
+443,vitae mattis nibh,1770,133883,6,80374,4
+444,amet diam in magna,2482,116165,9,98959,1
+445,faucibus orci,749,188086,5,119429,3
+446,turpis a pede posuere nonummy integer non velit,302,83834,6,208311,4
+447,odio porttitor id consequat in,1088,106042,8,100882,5
+448,tempus semper est quam,2384,141453,5,162227,3
+449,cras non velit,2756,21780,5,248036,5
+450,ultrices posuere cubilia curae nulla dapibus dolor,1284,32940,5,179961,5
+451,sed augue aliquam,1706,52683,6,62987,4
+452,ultrices vel,2455,194083,9,66898,5
+453,eu sapien,2370,123136,9,284262,1
+454,dictumst maecenas ut massa,1188,257077,9,218851,4
+455,turpis eget elit sodales scelerisque mauris sit amet,3638,18552,5,2638,5
+456,bibendum felis sed interdum venenatis turpis enim,724,91520,9,126409,4
+457,vulputate luctus cum sociis natoque,1249,93578,8,231210,1
+458,vehicula condimentum curabitur,1118,137863,9,56114,2
+459,sem fusce consequat nulla nisl nunc nisl,991,295303,5,160040,5
+460,volutpat quam pede lobortis,2749,265794,8,141184,2
+461,massa volutpat convallis morbi odio odio elementum,2797,26436,5,101053,5
+462,sit amet,3407,244864,8,116904,1
+463,congue etiam justo etiam pretium,2764,92503,9,18005,4
+464,pellentesque ultrices mattis,2854,283456,7,297375,3
+465,amet erat,981,73369,6,58515,1
+466,vestibulum ante ipsum primis in faucibus orci,1958,74731,6,120121,3
+467,in magna bibendum imperdiet nullam orci pede,1987,158227,8,200692,2
+468,mauris morbi non lectus aliquam sit amet,308,238716,6,192498,2
+469,suspendisse potenti in eleifend quam a odio,3224,39815,7,121087,2
+470,nisl nunc rhoncus dui vel sem,828,160888,9,56191,3
+471,arcu sed,3885,114304,8,284951,3
+472,nunc vestibulum ante ipsum primis in faucibus orci,2329,119600,5,238325,5
+473,in faucibus orci luctus,1326,200205,7,184425,1
+474,quam suspendisse potenti nullam porttitor lacus at,1128,15814,9,8645,4
+475,integer tincidunt ante vel ipsum praesent blandit lacinia,3105,97330,5,56264,4
+476,adipiscing molestie hendrerit at vulputate,193,60901,5,111243,3
+477,ac leo pellentesque ultrices mattis odio,2768,148248,7,106246,5
+478,imperdiet nullam orci pede venenatis,2242,148191,5,95637,2
+479,amet eros suspendisse,1579,89393,9,84867,4
+480,tellus nulla ut,1667,221722,5,52548,3
+481,nec dui luctus rutrum nulla tellus in,2634,222097,6,65202,4
+482,erat tortor,695,62934,9,247473,3
+483,amet eros suspendisse accumsan tortor quis turpis,190,212809,5,130730,2
+484,ultrices posuere cubilia curae mauris viverra diam,265,133249,6,120090,3
+485,nascetur ridiculus mus etiam vel augue vestibulum rutrum,1228,133309,5,136160,3
+486,vel enim sit amet nunc viverra dapibus nulla,3084,59593,9,82148,1
+487,integer pede justo lacinia eget,2543,25064,9,197564,3
+488,quis orci nullam molestie nibh in,2057,21008,6,73256,4
+489,turpis enim,3274,229025,7,15715,1
+490,nunc proin,2776,112800,7,61335,5
+491,sapien ut nunc vestibulum ante,1309,51085,6,170941,5
+492,ridiculus mus vivamus vestibulum sagittis sapien,327,155379,7,213328,5
+493,amet nulla,3979,145075,6,174160,1
+494,justo nec,217,214256,8,211554,4
+495,nibh in hac habitasse platea dictumst,116,236478,7,159098,2
+496,nisl duis ac nibh fusce,2261,171755,5,15589,4
+497,dui vel sem sed,498,24653,9,135253,4
+498,est phasellus sit amet,2991,40818,6,208635,2
+499,vel sem,1311,230971,9,270700,4
+500,cursus urna ut tellus nulla ut erat,973,83645,6,272291,1
+501,posuere metus vitae ipsum aliquam non mauris morbi,2500,64459,5,76869,3
+502,pede morbi porttitor lorem id,2997,75633,7,165413,4
+503,consequat ut nulla sed accumsan felis,2956,168729,5,183596,4
+504,proin at turpis,2699,37957,6,215223,4
+505,nulla justo,1057,12169,6,206605,2
+506,lacus at velit vivamus,2840,128052,9,295508,5
+507,etiam justo etiam pretium iaculis justo in hac,2905,248077,7,77112,4
+508,morbi ut,1332,135799,7,69117,5
+509,orci mauris lacinia sapien quis libero,2450,232764,7,35620,1
+510,vestibulum ante,2020,148597,8,46751,2
+511,erat quisque erat eros viverra eget congue eget,3677,270841,7,291199,5
+512,elit proin,477,183404,6,27410,5
+513,aliquet massa id lobortis convallis tortor risus dapibus,150,266883,7,183000,2
+514,orci vehicula condimentum curabitur in libero,1856,148715,7,299077,5
+515,sapien a libero nam dui proin,3518,163140,8,157504,5
+516,dis parturient montes nascetur ridiculus,377,148679,5,143216,1
+517,ut at dolor quis,1222,153203,5,108889,1
+518,aliquam convallis nunc,1235,235270,6,3936,3
+519,eu massa donec dapibus duis at,3660,106592,6,178953,1
+520,id nulla ultrices aliquet maecenas leo odio,1446,276414,6,198626,2
+521,sed sagittis nam congue risus semper porta volutpat,3903,288181,9,265875,3
+522,tempus semper est quam,3261,94366,7,23115,2
+523,quam turpis,2768,224502,9,174680,2
+524,tristique est,1242,140641,7,51879,4
+525,eleifend luctus ultricies eu nibh quisque id,762,233622,7,285545,3
+526,diam id,697,179008,7,139108,4
+527,ligula vehicula,2670,265445,9,57550,3
+528,cras mi,2142,42846,9,212926,1
+529,orci luctus et,2029,80485,5,97983,1
+530,porttitor lacus at turpis,759,200304,5,253174,3
+531,fringilla rhoncus mauris,3532,117688,8,211681,1
+532,cras in purus eu magna vulputate,1862,263893,7,245271,1
+533,posuere cubilia curae donec pharetra,97,294680,5,214144,5
+534,hac habitasse platea dictumst maecenas,2047,10396,9,67135,1
+535,cras non velit nec nisi vulputate nonummy,3496,265855,6,98617,3
+536,interdum mauris non ligula pellentesque,109,148751,6,119545,3
+537,vestibulum ante ipsum,3312,230395,8,143121,5
+538,mauris viverra diam vitae quam suspendisse potenti,534,60367,9,191537,1
+539,sit amet diam in magna bibendum,13,177981,8,234635,1
+540,sem sed sagittis nam congue risus,1637,64323,7,139988,3
+541,sed vestibulum sit,2278,155594,7,225290,4
+542,morbi ut odio cras mi pede malesuada,1338,68169,7,144497,2
+543,cum sociis natoque penatibus et magnis dis parturient,3856,126201,6,157893,2
+544,sapien quis,1355,92682,5,279869,3
+545,at dolor quis odio consequat varius integer,472,141748,6,222478,5
+546,orci luctus et,3802,175623,5,98132,5
+547,dui proin leo odio,735,264953,8,145184,3
+548,volutpat in congue etiam justo,727,191773,8,140252,5
+549,mollis molestie lorem quisque,686,87201,5,56579,3
+550,at velit eu,1029,165846,9,239376,5
+551,purus eu magna vulputate luctus cum,1458,152293,9,269598,1
+552,tortor sollicitudin mi sit amet lobortis sapien sapien,1853,196971,9,65984,1
+553,mi nulla ac,3086,59335,7,272851,4
+554,eget vulputate ut ultrices vel augue vestibulum ante,1370,108578,8,40153,4
+555,curabitur at ipsum,2717,118523,9,104264,5
+556,sed magna at nunc commodo placerat,3191,89268,9,139358,3
+557,et commodo vulputate justo,3419,21802,9,181187,2
+558,tortor id nulla ultrices,2704,33258,5,71679,2
+559,dapibus dolor vel est donec,2712,193239,9,291698,1
+560,dapibus duis,3719,118900,7,235748,2
+561,ligula vehicula consequat,2657,240846,5,236477,2
+562,et commodo vulputate justo in blandit,1860,48212,6,150734,3
+563,lacus morbi quis tortor id nulla,1115,184395,5,69943,5
+564,vivamus vestibulum sagittis sapien cum sociis natoque penatibus,1267,24593,9,57384,1
+565,nibh in,3163,175483,9,294807,5
+566,nec sem duis,1450,127762,5,98181,2
+567,in hac,1833,13696,7,258731,1
+568,morbi non quam nec,1429,225289,8,279599,5
+569,vestibulum eget vulputate ut ultrices vel augue,38,272738,7,280550,4
+570,tristique in,124,253340,6,210339,5
+571,non velit nec nisi vulputate nonummy,977,58136,9,155349,3
+572,eget elit sodales scelerisque mauris,1104,141631,5,55238,4
+573,consequat lectus in,206,53693,6,256961,4
+574,nisl aenean lectus pellentesque eget nunc donec,3033,76051,7,212414,4
+575,augue vestibulum rutrum rutrum neque,2209,247407,8,239733,3
+576,sagittis dui vel nisl,1523,117844,8,219783,1
+577,ut massa volutpat convallis morbi,3737,151576,8,180736,4
+578,erat curabitur gravida nisi at nibh,3151,64561,9,244102,2
+579,fermentum justo nec condimentum neque sapien placerat,144,224349,5,36114,5
+580,sed augue aliquam erat volutpat,3557,127703,7,94264,4
+581,dui vel nisl duis ac,3047,158237,9,234812,4
+582,facilisi cras non velit nec,3988,156975,8,35359,5
+583,ut tellus nulla ut erat,3040,298399,7,186541,3
+584,ut dolor morbi vel lectus,932,184231,5,299587,5
+585,morbi non lectus aliquam sit amet,1918,54630,6,113939,5
+586,quam turpis adipiscing lorem,1193,254019,9,225561,4
+587,vel nisl duis ac,3256,50387,8,129621,3
+588,mattis egestas metus aenean fermentum donec ut mauris,3174,16494,6,119990,2
+589,nulla neque libero convallis eget eleifend luctus,2833,196511,9,76641,4
+590,quis augue luctus tincidunt,3469,136089,7,8585,2
+591,nunc nisl duis bibendum felis sed interdum,1572,31645,7,90735,3
+592,cubilia curae nulla dapibus dolor,3393,75441,8,178356,2
+593,turpis sed ante vivamus tortor duis mattis,1465,46195,8,28217,3
+594,lacinia sapien quis libero nullam sit,3869,104996,5,5173,4
+595,malesuada in imperdiet et commodo,2904,295539,7,181046,3
+596,quis orci eget orci vehicula condimentum curabitur in,1575,249360,8,111765,5
+597,risus semper,3493,108755,7,117306,2
+598,ipsum primis in faucibus orci luctus et ultrices,2111,109777,6,58031,2
+599,lacus at turpis donec posuere metus,618,100062,8,129211,2
+600,metus vitae ipsum aliquam non mauris,1325,10205,6,60780,5
+601,odio in hac,2237,238921,6,78544,5
+602,praesent blandit lacinia erat vestibulum sed magna at,654,209781,6,141104,2
+603,quis tortor,1156,229353,6,264514,2
+604,nulla justo aliquam quis turpis eget,3588,134049,9,157003,3
+605,pharetra magna vestibulum aliquet ultrices erat tortor,1137,293546,6,68598,3
+606,ultrices mattis odio,111,195910,6,138430,1
+607,vivamus tortor duis mattis egestas metus,1200,11571,8,27338,3
+608,pellentesque volutpat dui,2237,122063,5,96173,5
+609,ut massa volutpat convallis morbi,1858,168289,7,38896,4
+610,sagittis dui vel nisl,175,137646,7,177258,5
+611,ac nibh fusce lacus,3732,75899,7,254595,3
+612,pulvinar sed nisl nunc rhoncus dui vel sem,1714,241503,6,135932,4
+613,congue elementum in hac habitasse platea dictumst morbi,1862,278030,9,200192,2
+614,est congue elementum in hac,2837,253613,8,240164,2
+615,imperdiet nullam orci,2864,238219,6,191625,4
+616,in est risus auctor sed,873,235392,7,153241,5
+617,ut nunc vestibulum ante ipsum primis in,2911,260289,7,236470,3
+618,ut dolor,3780,49380,6,143127,1
+619,molestie nibh in,407,274567,8,121980,4
+620,ligula nec,2484,259611,9,276516,2
+621,sit amet nulla,3197,57982,9,291366,2
+622,sapien a libero nam dui proin leo odio,1785,179967,7,34557,2
+623,morbi non lectus aliquam sit,3090,234084,5,214846,4
+624,nullam molestie nibh in lectus pellentesque,2447,199985,5,253898,2
+625,amet consectetuer adipiscing,1934,160813,8,254437,5
+626,libero quis,1451,125604,5,99101,5
+627,nunc donec quis orci eget,624,69491,9,187736,2
+628,lobortis sapien sapien non mi integer ac neque,720,47404,6,270399,3
+629,scelerisque mauris sit amet eros suspendisse,2681,295406,9,292074,4
+630,vitae nisi nam ultrices libero non mattis pulvinar,3775,291575,5,56676,4
+631,vel lectus in quam fringilla rhoncus mauris,2048,166564,6,243751,1
+632,elementum ligula,1276,193723,8,196049,1
+633,mauris enim leo rhoncus sed vestibulum sit,2404,179342,5,127287,5
+634,odio donec vitae,1323,18861,5,185798,4
+635,venenatis tristique fusce congue diam id ornare imperdiet,3563,230356,6,299529,4
+636,dictumst maecenas ut massa quis augue luctus,2181,66931,5,160844,3
+637,sem sed sagittis nam congue,2925,209396,5,184215,1
+638,quisque ut,1947,39234,9,233060,1
+639,elementum eu interdum eu tincidunt in leo maecenas,1554,137058,8,197339,2
+640,tristique fusce,960,72815,6,267052,3
+641,nunc proin at turpis a pede,803,172201,8,275934,4
+642,rutrum ac lobortis vel dapibus at,849,162898,9,210352,5
+643,commodo vulputate justo in blandit ultrices,2354,32929,9,268810,1
+644,nisl nunc nisl duis bibendum felis sed,1174,20323,5,261652,5
+645,commodo placerat praesent blandit nam nulla,3254,143508,9,13675,4
+646,facilisi cras non velit nec,1998,116883,7,212842,2
+647,vivamus tortor duis,1622,232725,8,216635,4
+648,mauris sit amet,274,254520,5,204235,3
+649,diam id ornare imperdiet sapien urna pretium nisl,2066,220011,7,84926,2
+650,ut mauris eget massa tempor convallis nulla,2351,262299,5,80621,2
+651,molestie lorem quisque ut erat curabitur gravida nisi,2642,129562,8,254705,5
+652,tellus in sagittis dui vel nisl,2045,195717,9,186386,1
+653,purus sit amet,606,242510,8,275629,4
+654,faucibus orci luctus et ultrices posuere cubilia curae,3364,127727,5,169418,1
+655,egestas metus aenean fermentum donec ut,798,134608,7,261692,2
+656,lorem integer tincidunt,2722,261379,5,25598,1
+657,adipiscing lorem vitae mattis nibh ligula nec sem,2590,143366,5,265820,4
+658,cursus id turpis integer aliquet massa,716,110141,8,641,2
+659,pellentesque eget,406,192069,5,133903,4
+660,natoque penatibus et magnis dis parturient,483,278319,7,298350,4
+661,curae mauris,554,90950,9,111202,3
+662,ac est lacinia nisi venenatis tristique,2718,180153,9,34153,5
+663,vel lectus in,3512,170578,6,151919,4
+664,luctus rutrum nulla,2911,284741,6,243029,4
+665,integer aliquet,3965,91892,9,50082,3
+666,habitasse platea dictumst etiam faucibus cursus urna,3112,142527,8,42778,1
+667,posuere cubilia curae,3797,186524,5,264535,3
+668,rutrum nulla tellus in sagittis dui vel nisl,3783,112094,7,107531,2
+669,sed lacus morbi,3784,79963,5,138806,3
+670,posuere nonummy,3424,68671,9,11441,4
+671,fusce congue diam id ornare imperdiet,1956,67261,6,284635,5
+672,lectus vestibulum quam sapien varius ut blandit,3808,229973,6,20447,3
+673,potenti in eleifend,2905,271476,8,25844,1
+674,viverra pede,165,12664,6,156900,1
+675,justo morbi,3959,93337,6,283442,5
+676,ligula sit amet eleifend,2686,154235,7,185511,5
+677,nullam sit amet turpis elementum ligula vehicula,3810,40670,5,134131,3
+678,morbi vestibulum velit,574,94688,6,71568,5
+679,venenatis turpis enim,226,38584,7,226904,2
+680,eros viverra eget congue eget semper rutrum nulla,2751,38605,6,72232,5
+681,viverra eget congue,2886,104400,7,133004,4
+682,libero quis orci nullam molestie nibh in,2875,100606,7,23715,3
+683,consequat in consequat ut nulla sed accumsan felis,505,10051,6,93581,5
+684,habitasse platea dictumst,2598,57074,8,263014,5
+685,felis fusce posuere felis sed lacus,1485,69202,8,73230,5
+686,tellus nulla ut erat id mauris vulputate,1293,77501,9,120949,4
+687,metus sapien ut nunc vestibulum ante ipsum,1045,190222,9,128200,2
+688,orci vehicula condimentum,2532,252491,6,165370,2
+689,praesent blandit lacinia erat,489,275573,5,147540,5
+690,neque sapien placerat ante nulla justo aliquam quis,3698,226850,8,80817,4
+691,porttitor lacus at turpis donec posuere metus,1786,18178,6,37837,5
+692,morbi sem mauris laoreet,1615,69495,7,35458,5
+693,sapien varius ut blandit non interdum in ante,508,195814,9,233501,2
+694,quam turpis adipiscing,3888,111019,9,126067,2
+695,at nibh in,759,246502,9,58928,1
+696,orci luctus et ultrices posuere cubilia curae mauris,1997,75097,6,52106,5
+697,dictumst aliquam augue quam sollicitudin vitae,895,82115,9,62381,3
+698,at nulla suspendisse potenti cras in,3820,26033,6,62152,1
+699,pellentesque ultrices mattis odio donec,2589,230517,9,19726,4
+700,mus vivamus vestibulum sagittis sapien cum sociis,270,261492,6,165480,1
+701,duis ac nibh fusce lacus purus,2054,188586,7,107588,5
+702,lacinia erat,794,36707,7,184994,1
+703,nibh in,3967,108819,6,114679,1
+704,ullamcorper purus sit,3432,76547,7,260421,2
+705,condimentum curabitur in libero ut massa volutpat convallis,2419,94726,7,113237,3
+706,ac tellus,3707,138486,5,255427,3
+707,habitasse platea dictumst maecenas ut massa quis,380,30348,5,146186,3
+708,lorem id ligula suspendisse ornare consequat,421,95148,9,65959,2
+709,quam suspendisse potenti nullam,2007,179868,6,209735,2
+710,neque sapien,727,287216,5,76109,5
+711,turpis eget,1895,209742,5,248050,2
+712,sed interdum venenatis turpis enim blandit mi in,74,194843,6,81028,5
+713,ridiculus mus vivamus vestibulum,3843,43095,6,259574,2
+714,rutrum nulla tellus,811,275701,5,73148,2
+715,aliquam sit amet,875,182212,8,249411,4
+716,ac est lacinia nisi,3154,297390,8,282335,2
+717,eget eleifend luctus,2265,205104,9,89858,4
+718,cras non velit nec nisi vulputate nonummy,3440,157133,8,70108,4
+719,consequat nulla nisl,2068,165196,9,102202,4
+720,ultrices posuere,3256,78912,7,231835,5
+721,ut tellus nulla ut erat id mauris vulputate,2598,31263,5,220261,4
+722,pede venenatis non,3211,112138,7,101704,3
+723,nunc vestibulum ante ipsum,2992,51637,5,8629,4
+724,ut erat curabitur,2168,178688,6,229017,2
+725,cubilia curae donec pharetra,469,103039,9,186631,1
+726,maecenas tristique est et tempus semper est quam,2332,223601,8,64920,2
+727,magna vestibulum aliquet ultrices erat tortor sollicitudin mi,1429,125810,8,25387,3
+728,at velit vivamus vel,303,64236,6,94973,4
+729,rutrum rutrum,2164,131101,7,121477,5
+730,blandit lacinia,2896,80199,5,99739,2
+731,congue diam id ornare,3499,83812,7,68958,4
+732,eros viverra eget congue,1264,71948,5,27522,2
+733,est phasellus sit amet,1776,85088,9,186325,3
+734,morbi non lectus,926,156396,8,32354,2
+735,ornare imperdiet,1141,246394,8,272801,2
+736,viverra eget,2391,228532,5,137368,2
+737,ut at dolor quis odio consequat varius,2519,121826,5,207544,1
+738,morbi quis tortor id nulla ultrices,253,200247,8,160258,4
+739,nec nisi,215,26893,9,157875,4
+740,fusce consequat nulla nisl,2420,171288,5,265113,1
+741,bibendum morbi,3765,52216,9,256745,3
+742,a feugiat et eros vestibulum ac est,1840,132402,9,121686,1
+743,felis sed interdum venenatis turpis enim blandit mi,1515,284463,5,231085,2
+744,in quam fringilla rhoncus mauris enim leo rhoncus,3840,70397,9,61442,1
+745,aliquam lacus morbi quis tortor id,355,153791,8,115203,5
+746,curae mauris viverra diam vitae quam suspendisse potenti,3233,239811,9,90749,5
+747,amet turpis elementum ligula vehicula consequat,3100,53952,6,172245,1
+748,duis aliquam convallis nunc proin at turpis,3516,128682,8,177965,4
+749,vel sem sed sagittis nam congue risus semper,1107,114191,9,161142,4
+750,ac tellus semper interdum,825,180274,6,115680,4
+751,feugiat et eros vestibulum ac,3065,203573,6,246231,3
+752,feugiat et eros,12,194948,5,154523,4
+753,ultrices vel,576,126784,8,222326,2
+754,ultrices aliquet maecenas leo odio condimentum,3057,152926,9,129086,5
+755,elementum nullam varius nulla facilisi cras non,3448,104833,7,162008,2
+756,aenean auctor,611,224522,5,2671,5
+757,hac habitasse platea dictumst,2362,210069,5,240350,2
+758,etiam faucibus,3809,75649,6,295797,2
+759,id nulla ultrices aliquet maecenas leo odio condimentum,3571,72323,9,150022,4
+760,mattis odio,50,23196,6,60481,4
+761,ac lobortis vel,2763,22142,7,56252,2
+762,et magnis dis parturient montes,3145,118148,8,253118,3
+763,duis bibendum felis sed interdum venenatis turpis,2759,193909,7,103162,3
+764,ut at dolor quis odio consequat varius,579,26657,5,256854,1
+765,tortor sollicitudin mi sit amet lobortis,3492,70426,9,23558,2
+766,faucibus orci luctus,3633,47683,6,180134,5
+767,ut blandit non interdum in ante vestibulum ante,1790,277077,6,204276,1
+768,sed ante vivamus tortor duis mattis egestas metus,3228,82955,6,282843,2
+769,mi in porttitor pede justo eu massa donec,3037,244440,9,225561,5
+770,nibh in quis justo,3906,242530,6,91540,3
+771,nascetur ridiculus mus vivamus vestibulum,2060,94784,6,60952,3
+772,quisque ut,1040,204014,5,91808,4
+773,aliquam sit amet diam,3669,211566,6,272376,5
+774,nisl aenean lectus,1607,26856,7,47519,1
+775,ipsum dolor sit amet,2267,177616,5,253809,2
+776,justo morbi ut,3429,34502,6,248378,3
+777,sapien cum,723,282509,9,46732,4
+778,id nulla ultrices aliquet maecenas leo odio,3679,173883,8,145976,2
+779,cras non velit,2926,265147,6,102330,2
+780,tristique est et tempus,2014,225702,5,224534,5
+781,vel enim sit amet nunc,1938,178636,7,211636,1
+782,congue vivamus metus arcu adipiscing,850,270371,9,169868,2
+783,curae mauris viverra diam vitae quam,2049,63066,7,22910,4
+784,accumsan felis ut,1335,38054,7,271103,3
+785,luctus tincidunt nulla mollis,2544,243790,9,125447,1
+786,justo eu massa donec dapibus duis,1238,70109,5,100254,1
+787,volutpat erat quisque erat eros viverra eget congue,1017,149337,6,260448,2
+788,quis justo maecenas rhoncus aliquam,652,253783,8,174194,3
+789,suspendisse potenti nullam,647,115507,6,73298,4
+790,mauris morbi,1301,114222,6,45485,2
+791,vel sem sed sagittis nam congue,2675,124072,6,12145,3
+792,congue elementum in hac habitasse platea dictumst morbi,2852,72543,7,49097,3
+793,habitasse platea,124,116404,5,80576,1
+794,ante nulla,460,209970,6,162351,3
+795,id ligula suspendisse ornare,2271,209929,8,145972,1
+796,morbi porttitor lorem id ligula suspendisse ornare,3638,26738,5,100871,3
+797,molestie lorem quisque ut erat curabitur gravida,656,220602,5,46079,5
+798,eget tempus vel pede,1200,127460,7,118830,2
+799,gravida nisi,3239,146318,9,212607,5
+800,sit amet sapien dignissim vestibulum vestibulum,3063,59588,7,171085,2
+801,cubilia curae nulla dapibus dolor vel est donec,3530,264284,7,35232,3
+802,ultrices posuere cubilia curae nulla dapibus dolor,2619,258717,9,240558,4
+803,vel enim sit amet nunc viverra dapibus nulla,483,101295,8,137901,5
+804,mauris eget massa tempor,1843,46981,6,42936,1
+805,a ipsum integer a,45,80843,6,206809,4
+806,sed interdum venenatis turpis enim blandit,570,117298,6,248735,3
+807,tortor risus dapibus augue,2703,218906,5,107077,3
+808,orci nullam molestie,2713,215545,7,147419,3
+809,eros elementum pellentesque quisque porta,3449,73033,7,283355,1
+810,tristique fusce congue,3616,225669,7,235505,5
+811,duis faucibus accumsan odio curabitur convallis duis consequat,2267,291732,6,67640,3
+812,sapien a libero nam dui proin leo,3214,174572,6,246299,4
+813,lacinia aenean sit amet justo morbi,2967,253111,9,28742,4
+814,praesent blandit lacinia erat vestibulum sed magna,2165,185766,9,70550,4
+815,volutpat convallis,2906,93499,9,131615,1
+816,volutpat quam pede lobortis,1870,134675,9,278906,2
+817,integer tincidunt ante,1914,194682,7,104564,2
+818,pede ullamcorper augue a suscipit nulla elit ac,608,180167,6,102650,4
+819,sollicitudin ut suscipit a feugiat et eros,3449,31358,9,154204,3
+820,lacinia eget tincidunt eget tempus vel pede,841,243522,8,263236,4
+821,luctus rutrum nulla tellus in,551,167031,9,250963,3
+822,habitasse platea dictumst,2947,200757,7,226584,2
+823,nulla nunc purus,528,61354,7,177499,2
+824,consequat morbi a ipsum integer a,784,126287,8,251458,1
+825,dictumst maecenas ut,2672,215556,6,190726,5
+826,orci eget orci vehicula condimentum curabitur,255,149186,5,156456,3
+827,tortor duis mattis egestas metus,1356,151630,9,69439,5
+828,metus sapien ut,65,202089,7,76629,5
+829,viverra dapibus,3719,286016,7,148076,4
+830,in felis donec semper,892,229250,5,129165,3
+831,sagittis nam,3539,245262,7,177856,5
+832,semper rutrum nulla nunc purus,1295,51382,8,258115,5
+833,et ultrices,867,29721,8,248874,1
+834,posuere cubilia curae,3982,12828,7,220324,5
+835,quis orci,1304,236583,9,182562,2
+836,lacinia sapien quis,685,156831,7,96303,1
+837,mi sit,2103,67779,7,33257,5
+838,quis orci nullam molestie nibh in lectus,921,168757,5,224040,3
+839,volutpat sapien arcu sed augue aliquam erat volutpat,354,281919,7,157280,5
+840,risus dapibus augue vel,347,216798,8,120055,4
+841,viverra pede ac diam cras pellentesque volutpat,2401,207962,8,45971,3
+842,aliquam convallis nunc proin at turpis a,1358,200241,6,7809,5
+843,tincidunt nulla mollis molestie lorem quisque,1933,121916,8,181702,5
+844,quis tortor id nulla ultrices,2720,255458,8,154670,3
+845,sit amet erat,2090,80436,6,285811,1
+846,cras pellentesque,3901,299834,6,92394,1
+847,at nibh in hac habitasse platea,997,138898,7,185744,5
+848,ipsum dolor sit amet consectetuer adipiscing elit proin,3698,179554,9,153186,4
+849,lacinia aenean sit amet justo,3256,245229,6,195126,4
+850,diam id ornare imperdiet sapien urna,3505,172717,8,149218,2
+851,nulla ultrices aliquet,1822,154671,5,87994,4
+852,donec odio justo sollicitudin,3548,112110,7,270859,5
+853,nulla sed,2326,48712,5,59054,5
+854,lobortis sapien sapien non mi integer,25,202429,7,139115,4
+855,mauris laoreet ut rhoncus aliquet pulvinar,1683,40468,7,199100,5
+856,sed nisl nunc rhoncus dui vel,3958,51586,6,98009,2
+857,amet nulla quisque,3878,257399,9,112934,3
+858,congue diam id ornare imperdiet,2078,141598,6,242735,1
+859,viverra pede ac diam cras,3531,208495,5,144014,5
+860,nulla nunc purus phasellus in felis,1745,15585,8,8514,1
+861,ut tellus nulla ut erat id mauris,2355,30408,8,264474,3
+862,eget elit,2008,95311,5,105068,4
+863,ante ipsum,746,298085,6,74063,4
+864,cubilia curae mauris viverra diam vitae quam,3263,65729,9,125264,1
+865,pede justo eu massa donec dapibus,2083,27524,8,7270,3
+866,a pede posuere nonummy integer non velit,3397,83589,5,181114,4
+867,ultrices libero non,786,95908,9,30333,4
+868,vulputate ut ultrices vel augue vestibulum,370,159171,5,254780,3
+869,vestibulum aliquet ultrices erat,1745,137893,6,290059,3
+870,eget nunc donec quis orci eget,188,266279,8,36793,2
+871,scelerisque mauris sit amet eros suspendisse,1115,24915,6,241387,3
+872,massa id,3012,113548,9,186646,3
+873,ut blandit non interdum in ante,41,50959,7,191283,4
+874,in faucibus orci luctus et ultrices posuere,24,287105,8,151640,3
+875,turpis integer aliquet massa id lobortis convallis tortor,1078,210802,9,178358,5
+876,aliquet massa,182,216787,7,116899,1
+877,amet eleifend pede,3299,78546,7,5283,2
+878,primis in,250,162116,8,55815,2
+879,nisi volutpat eleifend,17,155126,9,193061,3
+880,ultrices posuere cubilia,1595,105038,9,277674,5
+881,sem sed sagittis nam congue risus semper porta,2944,29372,7,204494,5
+882,justo in hac habitasse platea dictumst etiam,3771,287041,7,213929,5
+883,nulla integer pede justo lacinia,1979,188894,5,148898,1
+884,lacinia sapien quis,979,129398,5,166904,3
+885,maecenas tincidunt lacus,187,213736,9,115273,4
+886,amet diam in,1886,25100,7,24245,3
+887,nulla elit ac nulla sed vel enim sit,1529,118401,9,107278,3
+888,justo maecenas,1153,67524,6,169541,5
+889,suscipit nulla elit ac,815,26775,8,98980,5
+890,pede lobortis ligula sit amet eleifend pede libero,1659,115427,8,280015,2
+891,sed tristique in,3778,188639,7,89096,3
+892,in est risus auctor sed,3687,198464,8,226289,2
+893,eu massa donec dapibus duis at,729,233261,8,182312,3
+894,consequat morbi,2220,122348,9,285092,1
+895,tortor quis turpis,2827,193291,6,195471,2
+896,non sodales sed tincidunt,2807,130112,8,217,1
+897,et magnis dis parturient,1091,150384,7,179321,5
+898,lacus morbi sem mauris laoreet ut rhoncus,3416,88370,8,77313,4
+899,nec dui luctus,1789,79914,9,254312,2
+900,ante vel ipsum,267,123838,8,85215,4
+901,sed sagittis nam congue,2925,215544,6,135254,5
+902,sit amet consectetuer adipiscing elit proin interdum,2592,159522,6,126150,5
+903,nulla eget eros elementum pellentesque quisque porta volutpat,1802,44818,8,37257,3
+904,quis augue,2759,174211,8,169629,5
+905,luctus tincidunt nulla mollis molestie lorem quisque ut,3607,180573,9,34179,3
+906,amet turpis elementum ligula vehicula consequat,2050,291793,9,267538,2
+907,interdum mauris,1844,265655,5,51547,5
+908,fermentum donec ut mauris eget massa,3167,237070,9,75844,3
+909,vulputate vitae nisl aenean lectus,552,274666,7,35081,1
+910,nulla tellus in sagittis dui vel nisl,615,32891,8,250697,5
+911,risus semper porta volutpat quam,33,186029,6,5520,5
+912,quis tortor id nulla ultrices aliquet maecenas,395,240516,9,262404,4
+913,in lectus pellentesque at nulla,2622,73858,9,133895,1
+914,porta volutpat quam,1241,184239,8,286608,2
+915,aenean auctor gravida sem praesent,3803,103228,5,158317,1
+916,ac nibh fusce lacus purus aliquet at,3622,293609,5,288697,2
+917,mauris ullamcorper purus sit amet nulla quisque,743,105735,8,213237,1
+918,fusce congue diam,2749,94985,7,204061,5
+919,vestibulum aliquet ultrices erat tortor sollicitudin mi,2231,33592,9,188973,2
+920,nisl duis bibendum felis,3037,295300,8,245726,3
+921,parturient montes nascetur ridiculus mus vivamus vestibulum,777,66520,7,57793,5
+922,vitae ipsum aliquam non mauris,1318,57059,7,196870,1
+923,consectetuer adipiscing elit,1982,162608,8,115829,2
+924,cursus id turpis,1771,93947,8,210241,3
+925,primis in,299,205688,6,201569,4
+926,in est risus auctor,851,254556,5,157766,1
+927,eget eleifend luctus ultricies eu,2021,134973,7,124467,2
+928,lectus vestibulum quam,1477,42827,7,226579,5
+929,ut dolor morbi vel,2532,135450,6,239676,1
+930,montes nascetur ridiculus,1133,214690,5,19247,5
+931,tortor id nulla ultrices aliquet maecenas leo,3636,198647,5,142849,4
+932,natoque penatibus et magnis dis,661,243958,7,213290,1
+933,tristique in tempus,2206,204206,6,154457,5
+934,lacinia eget tincidunt eget tempus vel pede,1825,19057,6,234173,1
+935,nunc vestibulum ante ipsum primis in,1666,165773,8,238929,4
+936,mi sit amet lobortis sapien sapien,1845,224811,9,103294,1
+937,quam nec,917,111343,7,144961,2
+938,mattis nibh,3732,113464,5,81739,2
+939,praesent blandit,3871,79624,7,228297,3
+940,id massa id nisl venenatis lacinia aenean sit,1736,217604,7,2701,3
+941,neque vestibulum eget vulputate ut ultrices vel augue,3693,17450,9,35776,5
+942,vestibulum ante ipsum primis in faucibus orci,3590,183912,7,207287,5
+943,sed ante vivamus tortor,1554,92992,9,8660,5
+944,metus arcu adipiscing molestie hendrerit at vulputate vitae,3125,242632,8,133907,5
+945,blandit mi,3797,142549,5,191505,5
+946,quis tortor id nulla,1268,291617,7,208150,2
+947,diam erat fermentum justo nec condimentum neque,266,227572,8,21423,2
+948,integer tincidunt ante,378,193584,8,232711,4
+949,aliquam convallis nunc proin at turpis,3961,99782,8,106109,4
+950,enim leo rhoncus sed vestibulum sit,616,11865,8,23117,3
+951,id luctus nec,1926,211260,5,105573,1
+952,fermentum justo nec condimentum neque sapien,404,161548,7,268248,4
+953,pellentesque ultrices mattis odio donec vitae nisi nam,2976,276285,7,167621,3
+954,ut nunc vestibulum ante ipsum primis,2559,288326,9,117934,5
+955,nulla sed accumsan felis,1351,101232,7,64712,5
+956,dolor vel,2429,49758,5,160250,4
+957,sem duis aliquam convallis,2862,94491,5,174121,2
+958,vel sem sed sagittis nam congue,3678,139576,9,71134,5
+959,vivamus tortor duis mattis,1365,127540,7,163023,1
+960,blandit lacinia erat vestibulum,3308,79098,5,169750,1
+961,elementum pellentesque quisque porta volutpat,488,23038,8,32330,4
+962,purus phasellus in felis,899,62470,7,41598,1
+963,nunc vestibulum,3537,85355,7,185189,5
+964,duis bibendum morbi non quam nec,3250,195503,7,135175,2
+965,maecenas rhoncus,3376,156244,9,96960,2
+966,lectus pellentesque eget,3863,59253,8,11990,1
+967,leo odio porttitor id consequat in consequat,2485,121504,7,45961,3
+968,sapien ut,2889,185984,5,216771,1
+969,non mattis pulvinar nulla,914,264701,5,176969,1
+970,eget congue eget semper,228,159730,8,250197,1
+971,sed augue aliquam erat volutpat in,2739,234637,9,97174,5
+972,vestibulum rutrum rutrum neque aenean auctor gravida,2660,44978,9,157155,2
+973,primis in,920,25836,5,296139,1
+974,vestibulum eget vulputate ut ultrices,3706,286827,9,80250,1
+975,sapien varius ut,1161,171962,7,226238,2
+976,vestibulum ante ipsum primis in faucibus,802,161965,6,29003,3
+977,molestie lorem quisque ut erat,3116,105168,8,171698,1
+978,justo lacinia eget tincidunt eget,3635,116635,7,122575,5
+979,orci vehicula condimentum curabitur,2586,170884,7,258734,3
+980,vulputate nonummy maecenas tincidunt,2251,218577,9,150423,2
+981,varius nulla,1926,128942,6,282933,2
+982,magna vestibulum aliquet ultrices,1561,206412,9,249801,2
+983,mauris morbi non lectus aliquam,2958,130910,5,241145,1
+984,sapien in,1480,49053,7,227562,2
+985,commodo placerat,1757,179825,6,204730,3
+986,eget semper rutrum nulla nunc purus phasellus in,136,119327,8,279912,3
+987,dapibus augue vel accumsan tellus nisi eu,2138,14865,8,120629,4
+988,in faucibus orci luctus,3528,219546,6,195375,1
+989,at ipsum,226,152815,7,121684,4
+990,magnis dis parturient montes nascetur ridiculus mus vivamus,1024,241221,6,126546,3
+991,dignissim vestibulum vestibulum,1563,18902,7,5014,4
+992,non interdum in ante vestibulum ante ipsum primis,362,286323,8,99083,1
+993,aliquam erat volutpat,3058,25159,9,290611,4
+994,nulla mollis molestie lorem quisque ut erat,822,200828,6,151701,4
+995,et tempus semper est,3257,97046,7,154221,3
+996,urna ut tellus nulla,1475,186755,8,278967,4
+997,eget orci vehicula condimentum curabitur in libero ut,2473,93998,5,207435,2
+998,blandit nam,3118,11836,9,51423,1
+999,sapien urna pretium nisl,3216,231548,6,276507,2
+1000,augue a suscipit,11,146094,5,48352,1
