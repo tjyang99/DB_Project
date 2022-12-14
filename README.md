@@ -6,7 +6,7 @@ This Project was done for my NYU Database Systems Class.
 
 
 ## Software and Languages used:
-Website: Flask (Python) \
+Website: Flask (Python), SQLAlchemy \
 Database: Microsoft SQL Server Express (64-bit) \
 Database Manager: Microsoft SQL Server Management Studio \
 Machine Learning Algorithm: Pytorch, kmeans_pytorch \
