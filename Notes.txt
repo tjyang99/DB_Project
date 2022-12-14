@@ -1,0 +1,13 @@
+For the SQLAlchemy connection, there's no password
+
+User ID starts at 1
+Game ID starts at 100
+Achievement ID Sstarts at 200
+Wish ID starts at 300
+Tag ID starts at 400
+Genre ID, 500
+Per_Game_Stats, 600
+Client ID, 700
+Platform ID, 800
+Company ID, 900
+Product ID, 1000

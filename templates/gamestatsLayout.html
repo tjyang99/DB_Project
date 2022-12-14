@@ -1,0 +1,17 @@
+<!doctype html>
+<title>{% block title %}Welcome{% endblock %} | Game Stats</title>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='gamestatsStyle.css') }}">
+<div class="page">
+	<h1>Game Stats</h1>
+	<div class="nav">
+		<a href="{{ url_for('main_page') }}">Stats Displayer</a> |
+		<a href="{{ url_for('ml_page') }}">Game Recommender</a>
+	</div>
+
+	<div class="body">
+	{% block body %}{% endblock %}
+	</div>
+	<div class="footer">
+		Game Stats &mdash; Powered by Flask
+	</div>
+</div>

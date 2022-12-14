@@ -1,0 +1,82 @@
+{% extends "gamestatsLayout.html" %}
+{% block title %}
+	Welcome!
+{% endblock %}
+{% block body %}
+	<h2>Game Statistics Displayer</h2>
+	<p>Please enter the User_ID of the user you would like to view:</p>
+	<form action="" method="POST">
+		<d1>
+			<dt>User_ID:
+			<dd><input type=text name=User_ID size="30">
+		</d1>
+		<div class="actions"><input type=submit value="Submit"></div>
+	</form>
+	{% if g.showData %}
+	<h3>Hello, {{ user.First_Name }} {{ user.Last_Name }}</h3>
+	<h3>User:</h3>
+	<ul>
+		<li>{{ user }}</li>
+	</ul>
+	<h3>Game Clients:</h3>
+	<ul>
+		{% for g in game_clients %}
+		<li>{{ g }}</li>
+		{% endfor %}
+	</ul>
+	<h3>Owned Games:</h3>
+	<ul>
+		{% for o in owned_games %}
+		<li>{{ o }}</li>
+		{% endfor %}
+	</ul>
+	<h3>Achievements:</h3>
+	<ul>
+		{% for a in achievements %}
+		<li>{{ a }}</li>
+		{% endfor %}
+	</ul>
+	<h3>Game Wishlist:</h3>
+	<ul>
+		{% for w in game_wishlist %}
+		<li>{{ w }}</li>
+		{% endfor %}
+	</ul>
+	<h3>Game Tags:</h3>
+	<ul>
+		{% for t in game_tags %}
+		<li>{{ t }}</li>
+		{% endfor %}
+	</ul>
+	<h3>Per Genre Statistics:</h3>
+	<ul>
+		{% for g in per_genre_stats %}
+		<li>{{ g }}</li>
+		{% endfor %}
+	</ul>
+	<h3>Singleplayer Games Statistics:</h3>
+	<ul>
+		{% for s in sing_game_stats %}
+		<li>{{ s }}</li>
+		{% endfor %}
+	</ul>
+	<h3>Multiplayer Games Statistics:</h3>
+	<ul>
+		{% for m in multi_game_stats %}
+		<li>{{ m }}</li>
+		{% endfor %}
+	</ul>
+	<h3>Cooperative Games Statistics:</h3>
+	<ul>
+		{% for c in coop_game_stats %}
+		<li>{{ c }}</li>
+		{% endfor %}
+	</ul>
+	<h3>Overall Game Statistics:</h3>
+	<ul>
+		{% for o in overall_game_stats %}
+		<li>{{ o }}</li>
+		{% endfor %}
+	</ul>
+	{% endif %}
+{% endblock %}

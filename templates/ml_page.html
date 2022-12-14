@@ -1,0 +1,20 @@
+{% extends "gamestatsLayout.html" %}
+{% block title %}
+	Welcome!
+{% endblock %}
+{% block body %}
+	<h2>Game Recommender</h2>
+	<p>Please enter a review rating and number of reviews of a game to see its recommendation rank for you (1:lowest-9:highest):</p>
+	<form action="" method="POST">
+		<d1>
+			<dt>Review Rating:
+			<dd><input type=text name=Review_Rating size="30">
+			<dt>Review Count:
+			<dd><input type=text name=Review_Count size="30">
+		</d1>
+		<div class="actions"><input type=submit value="Submit"></div>
+	</form>
+	{% if g.showResult %}
+	<h3>Ranking for this game: {{ result }}</h3>
+	{% endif %}
+{% endblock %}
