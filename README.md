@@ -14,3 +14,6 @@ Machine Learning Data: Mockaroo
 
 ## Purpose
 This is an integration of a game recommender and statistics tracker, originally starting with the model for the relational database that would house the statisical data for a user. This project has two parts, the first demonstrates that it can pull directly from a physical database. The second demonstrates a simple evaluator for input data using a simple K-Means clustering model.
+
+## Addendum 12/22/2022
+Made 2 commits to this repo to add the files for webscraping that were done for Part 3 of the project. Use of the data has been integrated in the files that were committed.
