@@ -93,7 +93,8 @@ def ml_page():
     if request.method == 'POST':
         review_rating = request.form['Review_Rating']
         review_count = request.form['Review_Count']
-        result = calculate_nearest_centroid(review_rating, review_count)
+        player_count = request.form['Player_Count']
+        result = calculate_nearest_centroid(review_rating, review_count, player_count)
         g.showResult = True
     return render_template('ml_page.html', result=result)
     
